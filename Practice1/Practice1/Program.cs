@@ -8,11 +8,9 @@ using System.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Configuration.Json;
 
-<<<<<<< Updated upstream
-=======
 // test XLSalo
 // test XLSalo2
->>>>>>> Stashed changes
+
 namespace Practice1
 {
     internal static class Program
