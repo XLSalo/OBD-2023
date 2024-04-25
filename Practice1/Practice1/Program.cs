@@ -8,10 +8,8 @@ using System.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Configuration.Json;
 
+// test XLSalo
 
-// test
-// test 2
-// test 3
 namespace Practice1
 {
     internal static class Program
