@@ -19,7 +19,7 @@ namespace Practice1
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            // Отримайте введені логін та пароль
+            // Отримайте введені логін та пароль 
             string username = txtUsername.Text;
             string password = txtPassword.Text;
 
@@ -28,7 +28,7 @@ namespace Practice1
             {
                 // Авторизація успішна
                 MessageBox.Show("Ви успішно увійшли до системи!");
-
+                
                 // Зробіть речі, які ви хочете зробити після успішної авторизації
                 // ...
 
