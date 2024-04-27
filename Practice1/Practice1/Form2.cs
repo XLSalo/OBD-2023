@@ -33,7 +33,7 @@ namespace Practice1
                 try
                 {
                     connection.Open();
-                    string sql = "SELECT * FROM Customers"; // Replace "YourTable" with your actual table name
+                    string sql = "SELECT TOP (1000) * FROM [SalesLT].[Address]"; // Replace "YourTable" with your actual table name
                     SqlCommand command = new SqlCommand(sql, connection);
                     SqlDataAdapter adapter = new SqlDataAdapter(command);
                     DataTable dataTable = new DataTable();

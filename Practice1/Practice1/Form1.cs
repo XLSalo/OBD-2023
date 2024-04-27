@@ -23,7 +23,7 @@ namespace Practice1
             string username = txtUsername.Text;
             string password = txtPassword.Text;
             // Validate login credentials
-            if (username == "admin" && password == "password123")
+            if (username == "a" && password == "p")
             {
                 // Login successful
                 MessageBox.Show("Ви успішно увійшли до системи!");
