@@ -1,6 +1,4 @@
-﻿// Form2.cs
-
-using System;
+﻿using System;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
@@ -46,5 +44,12 @@ namespace Practice1
                 }
             }
         }
-    }
+
+        private void Form2_Load_1(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'dtpv20BDDataSet.Address' table. You can move, or remove it, as needed.
+            this.addressTableAdapter.Fill(this.dtpv20BDDataSet.Address);
+
+        }
+    }   
 }

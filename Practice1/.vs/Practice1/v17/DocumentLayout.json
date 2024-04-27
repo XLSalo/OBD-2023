@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\practice1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|solutionrelative:practice1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\practice1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|solutionrelative:practice1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\Practice1\\bin\\Debug\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice1\\bin\\Debug\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|c:\\users\\kv1tk\\documents\\obd-2023\\practice1\\practice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\practice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|solutionrelative:practice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\practice1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|solutionrelative:practice1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\practice1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|solutionrelative:practice1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\practice1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|solutionrelative:practice1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|c:\\users\\kv1tk\\documents\\obd-2023\\practice1\\practice1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|solutionrelative:practice1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\practice1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|solutionrelative:practice1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\practice1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F69159-6792-4E83-AAB4-0007BD1BF134}|Practice1\\Practice1.csproj|solutionrelative:practice1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,40 +48,40 @@
               "RelativeDocumentMoniker": "Practice1\\Program.cs",
               "ToolTip": "C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\Practice1\\Program.cs",
               "RelativeToolTip": "Practice1\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAqwDMAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T19:32:13.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\Practice1\\Form1.cs",
               "RelativeDocumentMoniker": "Practice1\\Form1.cs",
               "ToolTip": "C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\Practice1\\Form1.cs",
               "RelativeToolTip": "Practice1\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T19:59:29.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\Practice1\\Form2.cs",
               "RelativeDocumentMoniker": "Practice1\\Form2.cs",
               "ToolTip": "C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\Practice1\\Form2.cs",
               "RelativeToolTip": "Practice1\\Form2.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwCMAAABOAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T15:23:48.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\Practice1\\Form1.cs",
               "RelativeDocumentMoniker": "Practice1\\Form1.cs",
@@ -97,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\Practice1\\Form2.cs",
               "RelativeDocumentMoniker": "Practice1\\Form2.cs",
@@ -118,19 +114,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-24T19:44:19.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\Practice1\\Form2.Designer.cs",
-              "RelativeDocumentMoniker": "Practice1\\Form2.Designer.cs",
-              "ToolTip": "C:\\Users\\kv1tk\\Documents\\OBD-2023\\Practice1\\Practice1\\Form2.Designer.cs",
-              "RelativeToolTip": "Practice1\\Form2.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T15:38:19.881Z",
               "EditorCaption": ""
             }
           ]
