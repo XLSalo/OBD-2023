@@ -30,8 +30,9 @@ namespace Practice1
                 // Open Form2 and pass connection string
                 Form2 form2 = new Form2();
                 form2.SetConnectionString("YourConnectionString"); // Pass connection string to Form2
+                this.Hide(); // Hide Form1
+                form2.FormClosed += (s, args) => this.Close(); // Close Form1 when Form2 is closed
                 form2.Show();
-                this.Close(); // Close Form1
             }
             else
             {
