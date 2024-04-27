@@ -97,3 +97,4 @@ C:\Users\kv1tk\Documents\OBD-2023\Practice1\Practice1\obj\Debug\Practice1.Proper
 C:\Users\kv1tk\Documents\OBD-2023\Practice1\Practice1\obj\Debug\Practice1.csproj.GenerateResource.cache
 C:\Users\kv1tk\Documents\OBD-2023\Practice1\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
 C:\Users\kv1tk\Documents\OBD-2023\Practice1\Practice1\obj\Debug\Practice1.csproj.Up2Date
+C:\Users\kv1tk\Documents\OBD-2023\Practice1\Practice1\obj\Debug\Practice1.Form2.resources
