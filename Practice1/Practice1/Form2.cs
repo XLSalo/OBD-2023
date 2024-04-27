@@ -31,12 +31,12 @@ namespace Practice1
                 try
                 {
                     connection.Open();
-                    string sql = "SELECT TOP (1000) * FROM [SalesLT].[Address]"; // Replace "YourTable" with your actual table name
+                    string sql = "SELECT TOP (1000) * FROM [SalesLT].[Address]";
                     SqlCommand command = new SqlCommand(sql, connection);
                     SqlDataAdapter adapter = new SqlDataAdapter(command);
                     DataTable dataTable = new DataTable();
                     adapter.Fill(dataTable);
-                    dataGridView1.DataSource = dataTable; // Bind data to dataGridView1
+                    dataGridView1.DataSource = dataTable;
                 }
                 catch (SqlException ex)
                 {
@@ -47,7 +47,6 @@ namespace Practice1
 
         private void Form2_Load_1(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'dtpv20BDDataSet.Address' table. You can move, or remove it, as needed.
             this.addressTableAdapter.Fill(this.dtpv20BDDataSet.Address);
 
         }
